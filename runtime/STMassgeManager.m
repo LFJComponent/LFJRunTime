@@ -7,6 +7,7 @@
 //
 
 #import "STMassgeManager.h"
+#import <UIKit/UIKit.h>
 @interface STMassgeManager ()
 @property (nonatomic, strong) UIWindow *showWindow;
 @property (nonatomic, strong) UIView *topBar;
