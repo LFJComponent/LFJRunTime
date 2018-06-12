@@ -9,6 +9,6 @@ Pod::Spec.new do |s|
   s.source       = { :git => "https://github.com/LFJComponent/LFJRunTime.git", :tag => "#{s.version}" }
   s.source_files  = "runtime/*"
   s.exclude_files = "Classes/Exclude"
-  s.framework  = "UIKit","Foundation"
+  s.framework  = "UIKit"
 
 end
