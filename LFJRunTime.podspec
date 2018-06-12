@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
  s.name         = "LFJRunTime"
-  s.version      = "0.0.4"
-  s.summary      = "最新的一个04"
+  s.version      = "0.0.5"
+  s.summary      = "最新的一个05"
   s.description  = "额我方建文化方建俄空军妇科让你飞哥个人04"
   s.homepage     = "https://github.com/LFJComponent/LFJRunTime.git"
   s.license      = "MIT"
