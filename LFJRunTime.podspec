@@ -7,7 +7,7 @@ Pod::Spec.new do |s|
   s.license      = "MIT"
   s.author       = { "李方建" => "417962507@qq.com" }
   s.source       = { :git => "https://github.com/LFJComponent/LFJRunTime.git", :tag => "#{s.version}" }
-  s.source_files  = "*"
+  s.source_files  = "runtime/*"
   s.exclude_files = "Classes/Exclude"
 
 end
